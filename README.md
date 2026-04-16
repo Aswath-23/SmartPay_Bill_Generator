@@ -73,5 +73,3 @@ Final Total   : $440.0
 ```
 
 ---
-## Output
-<img width="345" height="280" alt="image" src="https://github.com/user-attachments/assets/2d493d20-4b27-468b-85fd-ef60804eec08" />
